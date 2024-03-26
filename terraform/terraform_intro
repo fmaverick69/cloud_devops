@@ -1,0 +1,17 @@
+# To check the provider for the terraform.
+> terraform init
+
+# To validate the terrafom code.
+> terraform validate
+
+# To format the terraform file/code.
+> terraform fmt
+
+# To check the preview before executing the changes to the actual system.
+> terraform plan
+
+# To apply the changes to the actual system.
+> terraform apply
+
+# To destroy/delete the resources.
+> recoterraform destroy
