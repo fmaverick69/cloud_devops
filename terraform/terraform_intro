@@ -15,3 +15,10 @@
 
 # To destroy/delete the resources.
 > recoterraform destroy
+
+# Important for terraform files.
+> variables - vars.tf
+> providers - providers.tf
+> resources
+    > provisioner
+    > connection
